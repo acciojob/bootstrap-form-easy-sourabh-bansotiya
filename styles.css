@@ -1,2 +1,120 @@
 
 /* Your CSS Code here. */
+
+#border{
+    position: absolute;
+    left: 50px;
+    top: 5px;
+    justify-content: center;
+    border: 2px solid;
+    width: 1600px;
+    height: 700px;
+}
+
+.heading{
+    position: absolute;
+    left: 40%;
+}
+
+#navigate{
+    justify-content: center;
+    position: relative;
+    top: 80px;
+    gap: 40px;
+}
+.nav1{
+    justify-content: center;
+    position: absolute;
+    top: 60px;
+    left: 20px;
+  
+}   
+
+.nav2{
+    justify-content: center;
+    position: absolute;
+    top: 60px;
+    left: 550px;
+  
+}   
+
+.nav3{
+    justify-content: center;
+    position: absolute;
+    top: 60px;
+    right: 20px;
+    
+}   
+
+.size{
+    width: 400px;
+}
+
+#navigate1{
+    justify-content: center;
+    position: relative;
+    top: 80px;
+    gap: 40px;
+}
+.nav4{
+    justify-content: center;
+    position: absolute;
+    top: 170px;
+    left: 75px;
+  
+}   
+
+.nav5{
+    justify-content: center;
+    position: absolute;
+    top: 170px;
+    left: 800px;
+}   
+
+.nav6{
+    justify-content: center;
+    position: absolute;
+    top: 243px;
+    right: 20px;
+    
+}   
+
+.clg{
+    width: 600px;
+}
+
+.gyr{
+    width: 350px;
+    height: 30px;
+}
+
+.roll{
+    width: 350px;
+}
+
+.check{
+    justify-content: center;
+    position: absolute;
+    top: 280px;
+    left: 80px;
+}
+
+.check1{
+    justify-content: center;
+    position: absolute;
+    top: 280px;
+    left: 105px;
+}
+
+#btn{
+    justify-content: center;
+    position: absolute;
+    top: 320px;
+    left: 80px;
+    width: 100px;
+    height: 30px;
+    background-color: rgb(0, 64, 255, 0.9);
+    color: white;
+    border-radius: 5px;
+}
+
